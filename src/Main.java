@@ -15,7 +15,7 @@ public class Main {
 			} else {
 				System.out.println("nieprawidlowa figura");
 			}
-				
+				// xD
 			
 			
 		}
@@ -56,7 +56,7 @@ public class Main {
 					System.out.println("Obwod Kwadratu: "+ kwadrat.Obwod());
 					System.out.println("Pole Kwadratu: "+ kwadrat.Pole());
 					System.out.println();
-				} else if(b1==b2 && b2==b3 && b3==b4 && k!=90) { //sprawdziæ czy k¹t wiekszy od 0 i mniejszy od 180
+				} else if(b1==b2 && b2==b3 && b3==b4 && k!=90) { //sprawdziï¿½ czy kï¿½t wiekszy od 0 i mniejszy od 180
 					Romb romb = new Romb(b1,b2,b3,b4,k);
 					System.out.println("Obwod Rombu: "+ romb.Obwod());
 					System.out.println("Pole Rombu: "+ romb.Pole());
