@@ -6,7 +6,7 @@ public class Kolo extends Figura{
 	double promien;
 	
 	Kolo(double promien){
-		this.promien = promien;
+		this.promien = 10;
 	}
 	
 	
